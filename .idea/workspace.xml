@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abdf8ce5-97fd-4329-a7c6-49435f9765bd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/comments.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/comments.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/content-footer-ad.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/content-footer-ad.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/content-header-ad.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/content-header-ad.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer-ad.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer-ad.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/sidebar-ad.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/sidebar-ad.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/sidebar-search.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/sidebar-search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.toc.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.toc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/404.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/404.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +35,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608198195270</updated>
       <workItem from="1608198196429" duration="1286000" />
-      <workItem from="1608254964154" duration="1339000" />
+      <workItem from="1608254964154" duration="1739000" />
     </task>
     <servers />
   </component>
