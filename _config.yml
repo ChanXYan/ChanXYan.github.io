@@ -49,8 +49,7 @@ email: chanxyan3@gmail.com
 #    Navigation    #
 # ---------------- #
 navs:
-  -
-    href: /
+  - href: /
     label: 首页
 
   -
