@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://ChanXYan.github.io
 date_format: "ordinal"
 title: 树下的深根
 subtitle: "世界观察者"
@@ -24,7 +24,7 @@ components:
     # 不蒜子访问统计
     busuanzi:
         enabled: true
-        start_date: 2020-05-03
+        start_date: 2020-12-18
 # 压缩页面内容
 compress_html:
   clippings: all
@@ -38,12 +38,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Chan Xiao ran
+author: Chan Xiaoran
 organization:
 organization_url:
 github_username: ChanXYan
 location: Shenzhen, China
-email: xyanchan@gmail.com
+email: chanxyan3@gmail.com
 
 # ---------------- #
 #    Navigation    #
