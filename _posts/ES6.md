@@ -1,3 +1,13 @@
+---
+
+layout: post
+title: ES6
+categories: [web,es6]
+description: first step in
+keywords: es6,2020
+
+---
+
 # ES6
 
 #### 防止重复定义
